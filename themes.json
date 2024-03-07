@@ -15,6 +15,10 @@
         "MacOS_Folders":{
             "img": "MacOS_Folders.jpg",
             "downloads": "[DosisBold.ttf, MacOS_Folders.json, Green.png, Red.png, Yellow.png, MacOS_Folders.jpg]"
+        },
+        "MoonFish":{
+            "img": "MoonFish.jpg",
+            "downloads": "[Nunito-ExtraBold.ttf, MoonFish.json, MoonFish.jpg]"
         }
     }
 }
