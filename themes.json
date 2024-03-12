@@ -19,6 +19,10 @@
         "MoonFish":{
             "img": "MoonFish.jpg",
             "downloads": "[Nunito-ExtraBold.ttf, MoonFish.json, MoonFish.jpg]"
+        },
+        "MacOS_Folders_V2":{
+            "img": "MacOS_Folders_V2.jpg",
+            "downloads": "[DosisBold.ttf, MacOS_Folders_V2.json, Green.png, Red.png, Yellow.png, MacOS_Folders_V2.jpg]"
         }
     }
 }
