@@ -23,6 +23,10 @@
         "MacOS_Folders_V2":{
             "img": "MacOS_Folders_V2.jpg",
             "downloads": "[DosisBold.ttf, MacOS_Folders_V2.json, Green.png, Red.png, Yellow.png, MacOS_Folders_V2.jpg]"
+        },
+        "Jelly":{
+            "img": "Jelly.jpg",
+            "downloads": "[Quicksand-Bold.ttf, Jelly.json, Jelly.jpg, clima/weathericons]"
         }
     }
 }
