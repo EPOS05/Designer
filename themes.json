@@ -27,6 +27,10 @@
         "Jelly":{
             "img": "Jelly.jpg",
             "downloads": "[Quicksand-Bold.ttf, Jelly.json, Jelly.jpg, clima/weathericons]"
+        },
+        "Jelly(RED)":{
+            "img": "Jelly(RED).jpg",
+            "downloads": "[Quicksand-Bold.ttf, Jelly(RED).json, Jelly(RED).jpg, clima/weathericons]"
         }
     }
 }
